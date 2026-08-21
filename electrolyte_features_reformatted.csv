@@ -1,0 +1,14 @@
+feature_name,Variables,category,description
+Oxygen ratio,O,Total Element Fraction,Overall molar proportion of elemental oxygen across the entire electrolyte mixture
+Solvent oxygen ratio,sO,Solvent Contribution,Molar fraction of oxygen contributed specifically by solvent molecules within the total electrolyte volume
+Anion oxygen ratio,aO,Anion Contribution,Molar fraction of oxygen originating exclusively from anion species in the electrolyte volume
+Carbon ratio,C,Total Element Fraction,Overall molar proportion of elemental carbon present in the complete electrolyte formulation
+Solvent carbon ratio,sC,Solvent Contribution,Molar fraction of carbon derived solely from the solvent components in the electrolyte
+Anion carbon ratio,aC,Anion Contribution,Molar fraction of carbon supplied strictly by the anion components in the electrolyte
+Fluorine ratio,F,Total Element Fraction,Overall molar proportion of elemental fluorine throughout the entire electrolyte system
+Solvent fluorine ratio,sF,Solvent Contribution,Molar fraction of fluorine atoms located in the solvent molecules across the electrolyte volume
+Anion fluorine ratio,aF,Anion Contribution,Molar fraction of fluorine atoms originating exclusively from electrolyte anions
+Fluorine to oxygen ratio,FO,Elemental Ratio,Comparative molar proportion between total fluorine content and total oxygen content
+Fluorine to carbon ratio,FC,Elemental Ratio,Comparative molar proportion between total fluorine content and total carbon content
+Oxygen to carbon ratio,OC,Elemental Ratio,Comparative molar proportion between total oxygen content and total carbon content
+Inorganic to organic ratio,InOr,Compositional Ratio,"Relative molar ratio of all inorganic elements (excluding carbon, hydrogen, and lithium) with respect to carbon content"
